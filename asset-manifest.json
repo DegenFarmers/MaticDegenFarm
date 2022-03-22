@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.141b8100.chunk.css",
+    "main.js": "/static/js/main.551c8927.chunk.js",
+    "main.js.map": "/static/js/main.551c8927.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2096b375.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2096b375.js.map",
+    "static/js/2.6f4ea6bd.chunk.js": "/static/js/2.6f4ea6bd.chunk.js",
+    "static/js/2.6f4ea6bd.chunk.js.map": "/static/js/2.6f4ea6bd.chunk.js.map",
+    "static/js/3.d5b41b5b.chunk.js": "/static/js/3.d5b41b5b.chunk.js",
+    "static/js/3.d5b41b5b.chunk.js.map": "/static/js/3.d5b41b5b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.141b8100.chunk.css.map": "/static/css/main.141b8100.chunk.css.map",
+    "static/js/2.6f4ea6bd.chunk.js.LICENSE.txt": "/static/js/2.6f4ea6bd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/MaticBG.9058859a.jpg",
+    "static/media/matic.11d9541b.svg": "/static/media/matic.11d9541b.svg",
+    "static/media/metamask.55d59196.png": "/static/media/metamask.55d59196.png",
+    "static/media/trustwallet.8de17c9e.png": "/static/media/trustwallet.8de17c9e.png",
+    "static/media/walletconnect.1b22e784.png": "/static/media/walletconnect.1b22e784.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2096b375.js",
+    "static/js/2.6f4ea6bd.chunk.js",
+    "static/css/main.141b8100.chunk.css",
+    "static/js/main.551c8927.chunk.js"
+  ]
+}
